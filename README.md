@@ -1,2 +1,0 @@
-# triangles
-shapes make sounds
